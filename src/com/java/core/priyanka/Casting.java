@@ -13,7 +13,7 @@ public class Casting {
 		
 		//explicit casting - decending order - Error as unable to convert from double to int
 		
-		double b = 94.93;
+		double b = 94.56;
 		int z = b;
 		
 		int z = (int)b;
